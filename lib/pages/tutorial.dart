@@ -11,7 +11,7 @@ class TutorialPage extends StatelessWidget {
       ),
       body: const Center(
         child: Text(
-            ' Calculando a frequência cardíaca máxima (FCMáx)\n\n Podemos calcular a frequência cardíaca \n\n máxima de algumas formas.\n\n Utilize Nosso aplicativo para obter o cálculo FCMax \n\n ideal para você.\n\n Passo 1: Insira seu nome\n\n Passo 2: Insira sua idade.\n\n Passo 3: Calcule\n\n'),
+            ' Calculando a frequência cardíaca máxima (FCMáx)\n\n Podemos calcular a frequência cardíaca \n\n máxima de algumas formas.\n\n Utilize Nosso aplicativo para obter o cálculo FCMax \n\n ideal para você.\n\n  Passo 1: Insira seu nome\n\n Passo 2: Insira sua idade.\n\n Passo 3: Calcule que será o salvar\n\n'),
       ),
     );
   }

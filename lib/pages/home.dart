@@ -35,22 +35,6 @@ class HomePage extends StatelessWidget {
             ),
             ListTile(
               leading: const Icon(Icons.person_pin_outlined),
-              title: const Text('Contatos SQLite'),
-              onTap: () {
-                Navigator.pop(context);
-                Navigator.of(context).pushNamed('/contatosSqLite');
-              },
-            ),
-            ListTile(
-              leading: const Icon(Icons.person_pin_outlined),
-              title: const Text('Contatos APi'),
-              onTap: () {
-                Navigator.pop(context);
-                Navigator.of(context).pushNamed('/contatosApi');
-              },
-            ),
-            ListTile(
-              leading: const Icon(Icons.person_pin_outlined),
               title: const Text('Frequência SQLite'),
               onTap: () {
                 Navigator.pop(context);

@@ -4,7 +4,7 @@ Content-Type: application/json
 ###
 
 # Inserir novo 
-POST http://localhost:3000/frequencia
+POST http://localhost:3000/frequencia/Inserir
 Content-Type: application/json
 
 {
