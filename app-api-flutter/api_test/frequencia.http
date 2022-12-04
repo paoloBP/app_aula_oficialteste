@@ -1,0 +1,47 @@
+# Obter a lista 
+GET http://localhost:3000/frequencia
+Content-Type: application/json
+###
+
+# Inserir novo 
+POST http://localhost:3000/frequencia
+Content-Type: application/json
+
+{
+    "id": null,
+    "nome": "Beltrano",
+    "idade": "25",
+    "sexo": "masculino",
+}
+
+
+###
+
+# Alterar um 
+PUT http://localhost:3000/frequencia
+Content-Type: application/json
+ 
+{
+    "id": "2",
+    "nome": "Fulano alterado",
+    "idade": "32",
+    "sexo": "feminino",
+}
+###
+
+# Excluir  pelo id
+DELETE  http://localhost:3000/frequencia/1
+Content-Type: application/json
+###
+
+
+# Obter pelo id 
+GET http://localhost:3000/frequencia/1
+Content-Type: application/json
+###
+
+
+
+
+
+
