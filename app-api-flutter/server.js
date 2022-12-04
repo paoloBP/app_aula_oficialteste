@@ -13,6 +13,8 @@ app.get('/', (req, res) => {
     res.send('Atendida a requisição GET!!');
 });
 
-const contato = require('./contato');
-contato(app);
+
+const frequencia = require('./frequencia');
+frequencia(app);
+
 
