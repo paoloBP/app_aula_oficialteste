@@ -28,3 +28,7 @@ Contem 3 telas sendo uma o tutorial, outra Api sendo nessa já tera alguns dados
  
 Paolo Bonez Piovezan  161692
 Vinicius Spanholo  160857
+
+segue o link do GitHub caso não consiga rodar pelo winrar
+
+https://github.com/paoloBP/app_aula_oficialteste.git
