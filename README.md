@@ -19,7 +19,7 @@ Projeto Calcula Frequencia, tem como objetivo faciltiar o cálculo de zonas de f
 
 
 ## Funcionando app
-- [x] Funcionando no API
+- [x] Funcionando na API
 - [x] Funcionando no Sql Lite
 - [x] Tela tutorial
 
